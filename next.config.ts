@@ -13,7 +13,7 @@ const nextConfig: NextConfig = {
      décommente la ligne ci-dessous et remplace '/mon-portfolio' par le nom de ton dépôt.
      Cela permet de charger les fichiers CSS/JS depuis le bon chemin.
   */
-  // basePath: '/nom-de-ton-depot',
+  basePath: '/mon-portfolio',
 };
 
 export default nextConfig;
